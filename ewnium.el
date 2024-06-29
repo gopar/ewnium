@@ -2,6 +2,7 @@
 (require 'shr)
 (require 'shrface)
 (require 'view)
+(require 'avy)
 
 (defun ewnium-open-eww-with-recent-kill-ring (&optional arg)
   "Open current EWW with most recent item in kill ring.

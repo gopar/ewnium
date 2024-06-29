@@ -34,6 +34,7 @@ The Emacs EWW version of Vimium plugin
   :hook (eww-mode . ewnium-mode))
 ```
 
+Also requires 'avy' project
 
 
 ## Issues
